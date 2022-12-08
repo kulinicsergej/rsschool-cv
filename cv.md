@@ -1,8 +1,8 @@
 # Kulinich Sergey
------------------
- **Contacts:**
 
-## location:Belarus
+===================================================================================
+
+## *location:Belarus*
 
 ## Contacts
 
@@ -12,14 +12,32 @@
 
 * ### Email: *kulinicsergej870@gmail.com*
 
-* ### GitHob:[https://github.com/kulinicsergej/rsschool-cv]
----
+### GitHob:[https://github.com/kulinicsergej/rsschool-cv]
 
+## About Me
 
+### *I am sure that you definitely need a person in the company who*
 
+### *willingness to take responsibility*
 
+### *learning effectively and efficiently*
 
+### *have leadership qualities*
 
+### *knows how to plan your day*
 
+### *appreciates and respects their own and other people's time  able to work in a team*
 
+======================================================================================
 
+### **Skills :**
+
+#### **HTML**
+
+#### **CSS/SASS**
+
+#### **JavaScript**
+
+#### **Git**
+
+#### **Figma**
