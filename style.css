@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.body{
+  font-family: 'Fira Sans', sans-serif;
+  line-height: 1.5;
+  font-size: 1rem;
+
+}
+.wrapper{
+  width: 950px ;
+  height: 950px;
+  background-color: rgba(244, 244, 236, 0.45);
+  margin: 0 auto;
+  border:2px solid  rgba(39, 39, 37, 0.45);
+  border-radius: 8px;
+
+}
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgba(34, 33, 33, 0.663);
+  border-radius: 7px;
+  
+}
+.foto{
+  background: url('./img/cv.jpg')center,center, no-repeat;
+background-size: cover;
+width: 250px;
+height: 250px;
+border-radius: 20px;
+}
+.right__header{
+  width: 500px;
+ color: white;
+font-size: 38px;
+}
+
+
+
+
+
+
+
