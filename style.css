@@ -11,7 +11,7 @@
 }
 .wrapper{
   width: 950px ;
-  height: 950px;
+  height: 750px;
   background-color: rgba(244, 244, 236, 0.45);
   margin: 0 auto;
   border:2px solid  rgba(39, 39, 37, 0.45);
@@ -24,6 +24,7 @@
   align-items: center;
   background-color: rgba(34, 33, 33, 0.663);
   border-radius: 7px;
+  margin: 30px;
   
 }
 .foto{
@@ -38,10 +39,74 @@ border-radius: 20px;
  color: white;
 font-size: 38px;
 }
+.main__block{
+  display: flex;
+  width: 850px;
+ 
+  margin: 0 auto;
+  justify-content:space-between;
 
 
+}
+.contact__me{
+width: 250px;
+height: 150px;
 
+ background-color:  rgba(34, 33, 33, 0.663);
+ box-shadow: 0px 10px 20px rgba(0, 0, 0,4);
+ line-height: 14px;
+ color: white;
+ margin-top: 20px;
+ border-radius: 7px;
+ list-style-type: none;
+ line-height: 28px;
+}
+ul{
+  list-style-type: none;
+}
+.About__me {
+  background-color:  rgba(34, 33, 33, 0.663);
+  border-radius: 7px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: white;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0,4);
+  margin-top: 20px;
+  margin-left: 20px;
+  line-height: 24px;
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
 
-
-
-
+.footer__left{
+margin-top: 30px;
+  width: 240px;
+height: 150px;
+box-shadow: 0px 10px 20px rgba(0, 0, 0,4);
+background-color:  rgba(34, 33, 33, 0.663);
+color: white;
+border-radius: 7px;
+margin-left: 45px;
+text-align: center;
+align-items: center;
+line-height: 23px;
+}
+.footer__ridth{
+  width: 598px;
+  height: 150px;
+  background-color:  rgba(34, 33, 33, 0.663);
+  border-radius: 7px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: white;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0,4);
+  margin-top: 30px;
+  margin-left: 20px;
+  line-height: 18px;
+  margin-right: 45px;
+ 
+}
