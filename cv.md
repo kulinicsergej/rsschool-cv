@@ -1,46 +1,46 @@
 # **Kulinich Sergey**
 
-===================================================================================
+# ![foto](/images/foto.jpg "foto") {: height="36px" width="36px"}
 
 ## **location:Belarus**
 
 ## **Contacts**
 
-* ### Sity: Zhabinka
+- ### Sity: Zhabinka
 
-* ### Phone: *+375292032892*
+- ### Phone: _+375292032892_
 
-* ### Email: *kulinicsergej870@gmail.com*
+- ### Email: *kulinicsergej870@gmail.com*
 
 ### GitHob:[https://github.com/kulinicsergej/rsschool-cv]
 
 ## **About Me**
 
-### *I am sure that you definitely need a person in the company who*
+### _I am sure that you definitely need a person in the company who_
 
-### *willingness to take responsibility*
+### _willingness to take responsibility_
 
-### *learning effectively and efficiently*
+### _learning effectively and efficiently_
 
-### *have leadership qualities*
+### _have leadership qualities_
 
-### *knows how to plan your day*
+### _knows how to plan your day_
 
-### *appreciates and respects their own and other people's time  able to work in a team*
+### _appreciates and respects their own and other people's time able to work in a team_
 
 ======================================================================================
 
 ## **Skills :**
 
-### *HTML*
+### _HTML_
 
-### *CSS/SASS*
+### _CSS/SASS_
 
-### *JavaScript*
+### _JavaScript_
 
-### *Git*
+### _Git_
 
-### *Figma*
+### _Figma_
 
 ==================================================================================
 
@@ -54,4 +54,4 @@
 
 ## English:A2
 
-----
+---
