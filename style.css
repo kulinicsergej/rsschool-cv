@@ -1,0 +1,221 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.body {
+  font-family: "Fira Sans", sans-serif;
+  line-height: 1.5;
+  font-size: 1rem;
+}
+.wrapper {
+  width: 950px;
+  height: 950px;
+  background-color: rgba(238, 238, 219, 0.829);
+  margin: 0 auto;
+  border: 10px solid rgba(39, 39, 37, 0.45);
+  border-radius: 8px;
+}
+.header {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+.ava {
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+  box-shadow: 0px 20px 30px rgba(9, 9, 9, 0.5);
+}
+h1.Kulinich {
+  font-size: 48px;
+  justify-content: center;
+  color: rgba(39, 39, 37, 0.45);
+}
+.main {
+  /* border: 2px solid red; */
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.About__me {
+  max-width: 850px;
+  height: 130px;
+  border: 2px solid rgba(39, 39, 37, 0.45);
+  border-radius: 7px;
+  background-color: rgba(218, 218, 214, 0.45);
+  box-shadow: 0px 20px 30px rgba(9, 9, 9, 0.5);
+  display: flex;
+  justify-content: center;
+  line-height: 19px;
+  flex-direction: column;
+}
+.Skills {
+  list-style-position: inside;
+  max-width: 380px;
+  height: 130px;
+  border: 2px solid rgba(39, 39, 37, 0.45);
+  border-radius: 7px;
+  background-color: rgba(218, 218, 214, 0.45);
+  box-shadow: 0px 20px 30px rgba(9, 9, 9, 0.5);
+  display: flex;
+  justify-content: center;
+  line-height: 19px;
+  flex-direction: column;
+}
+.row {
+  margin-top: 30px;
+  width: 850px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.code {
+  width: 280px;
+  border: 2px solid rgba(39, 39, 37, 0.45);
+  border-radius: 7px;
+  background-color: rgba(218, 218, 214, 0.45);
+  box-shadow: 0px 20px 30px rgba(9, 9, 9, 0.5);
+}
+.Education {
+  width: 280px;
+  border: 2px solid rgba(39, 39, 37, 0.45);
+  border-radius: 7px;
+  background-color: rgba(218, 218, 214, 0.45);
+  box-shadow: 0px 20px 30px rgba(9, 9, 9, 0.5);
+}
+.Languages {
+  margin-top: 40px;
+  width: 850px;
+  border: 2px solid rgba(39, 39, 37, 0.45);
+  border-radius: 7px;
+  background-color: rgba(218, 218, 214, 0.45);
+  box-shadow: 0px 20px 30px rgba(9, 9, 9, 0.5);
+  display: flex;
+  justify-content: flex-end;
+  line-height: 19px;
+  flex-direction: column;
+  display: flex;
+  text-align: center;
+  list-style-position: inside;
+}
+.footer {
+  margin-top: 222px;
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+}
+.log {
+  cursor: pointer;
+  width: 80px;
+  height: 50px;
+  background: url("./img/rs_school_js\ \(1\).svg") center no-repeat;
+}
+
+/* .wrapper{
+  width: 950px ;
+  height: 750px;
+  background-color: rgba(244, 244, 236, 0.45);
+  margin: 0 auto;
+  border:10px solid  rgba(39, 39, 37, 0.45);
+  border-radius: 8px;
+
+}
+.header{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgba(34, 33, 33, 0.663);
+  border-radius: 7px;
+  margin: 30px;
+  
+}
+.foto{
+  background: url('./img/cv.jpg')center,center, no-repeat;
+background-size: cover;
+width: 250px;
+height: 250px;
+border-radius: 20px;
+}
+.right__header{
+  width: 500px;
+ color: white;
+font-size: 38px;
+}
+.main__block{
+  display: flex;
+  width: 850px;
+ 
+  margin: 0 auto;
+  justify-content:space-between;
+
+
+}
+.contact__me{
+width: 250px;
+height: 150px;
+
+ background-color:  rgba(34, 33, 33, 0.663);
+ box-shadow: 0px 10px 20px rgba(0, 0, 0,4);
+ line-height: 14px;
+ color: white;
+ margin-top: 20px;
+ border-radius: 7px;
+ list-style-type: none;
+ line-height: 28px;
+}
+ul{
+  list-style-type: none;
+}
+.About__me {
+  background-color:  rgba(34, 33, 33, 0.663);
+  border-radius: 7px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: white;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0,4);
+  margin-top: 20px;
+  margin-left: 20px;
+  line-height: 24px;
+}
+.footer{
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__left{
+margin-top: 30px;
+  width: 240px;
+height: 150px;
+box-shadow: 0px 10px 20px rgba(0, 0, 0,4);
+background-color:  rgba(34, 33, 33, 0.663);
+color: white;
+border-radius: 7px;
+margin-left: 45px;
+text-align: center;
+align-items: center;
+line-height: 23px;
+justify-content: center;
+}
+.footer__ridth{
+  width: 598px;
+  height: 150px;
+  background-color:  rgba(34, 33, 33, 0.663);
+  border-radius: 7px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: white;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0,4);
+  margin-top: 30px;
+  margin-left: 20px;
+  line-height: 18px;
+  margin-right: 45px;
+ 
+} */
