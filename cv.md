@@ -1,6 +1,6 @@
 # **Kulinich Sergey**
 
-===================================================================================
+# ![foto](/images/foto.jpg "foto") {: height="36px" width="36px"}
 
 ## **location:Belarus**
 
