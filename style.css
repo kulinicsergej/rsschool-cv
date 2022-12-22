@@ -9,11 +9,11 @@
   font-size: 1rem;
   cursor: pointer;
 }
-
 .wrapper {
   width: 950px;
   height: 950px;
   background-color: rgba(238, 238, 219, 0.829);
+
   margin: 0 auto;
   border: 10px solid rgba(39, 39, 37, 0.45);
   border-radius: 8px;
@@ -129,3 +129,5 @@ h1.Kulinich {
   width: 80px;
   height: 50px;
 }
+
+
