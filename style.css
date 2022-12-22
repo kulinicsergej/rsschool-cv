@@ -107,6 +107,9 @@ h1.Kulinich {
   text-align: center;
   list-style-position: inside;
 }
+.h3 {
+  margin-left: -120px;
+}
 .colom {
   display: flex;
   flex-direction: column;
@@ -114,7 +117,7 @@ h1.Kulinich {
   align-items: center;
 }
 .footer {
-  margin-top: 222px;
+  margin-top: 200px;
   flex: 0 0 auto;
   display: flex;
   align-items: center;
@@ -125,7 +128,6 @@ h1.Kulinich {
   cursor: pointer;
   width: 80px;
   height: 50px;
-  background: url("../images/rs_school_js\ \(1\).svg") center no-repeat;
 }
 
 
