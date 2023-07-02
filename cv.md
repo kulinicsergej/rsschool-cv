@@ -10,7 +10,7 @@
 
 - ### Email: *kulinicsergej870@gmail.com*
 
-### GitHob:[https://github.com/kulinicsergej/rsschool-cv/cv]
+### GitHob:[https://github.com/kulinicsergej/rsschool-cv/]
 
 ## **About Me**
 
