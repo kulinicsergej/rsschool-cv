@@ -26,4 +26,35 @@
 
 ### _appreciates and respects their own and other people's time able to work in a team_
 
-======================================================================================
+==================================================================
+## **Skills :**
+
+### _HTML_
+
+### _CSS/SASS_
+
+### _JavaScript_
+
+### _Git_
+
+### _Figma_
+
+==================================================================
+
+## **Code :**
+
+      let delay = (time) => { return new Promise((res) => { setTimeout(()
+            => res(), time); }); }; delay(3000).then(() => console.log("Путь
+            конечен!"))
+
+### **Education:**
+
+## Has successfully completed the porogram
+
+## frontend development "myiT" 22.04.2022
+
+## RS School. Курс JS/Frontend stage 0 2023
+
+===================================================================
+
+## English:A2
