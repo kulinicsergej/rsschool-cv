@@ -24,7 +24,7 @@
     justify-content: space-around;
   }
   .ava {
-  background: url('/img/cv.jpg')center center no-repeat;
+  background: url('./img/cv.jpg')center center no-repeat;
   background-size: cover;
     width: 150px;
     height: 150px;
